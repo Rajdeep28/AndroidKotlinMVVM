@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo RoomDb Kotlin</string>
+    <string name="student_name">Student Name</string>
+    <string name="subscriber_email">Student email</string>
+    <string name="save">Save</string>
+    <string name="clear_or_delete">Clear</string>
+    <string name="student_name_list">Student Name:</string>
+    <string name="name">Name</string>
+    <string name="student_email_list">Student Email:</string>
+    <string name="email">Email</string>
+</resources>
